@@ -28,7 +28,7 @@ Cinza Claro: #F7F7F7
     box-sizing: border-box; /*permite que todas as configuracoes de box-model seja iguais a todos os navegadores*/
 }
 
-
+/*O header ficava aqui*/
 
 nav {
     width: 95%;
