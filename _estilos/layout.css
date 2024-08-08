@@ -28,18 +28,7 @@ Cinza Claro: #F7F7F7
     box-sizing: border-box; /*permite que todas as configuracoes de box-model seja iguais a todos os navegadores*/
 }
 
-header {
-    position: relative;
-    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0)), url(_imagens/secao08-background-capa.jpg);
-    background-size: cover;
-    background-position: center center;
 
-    width: 100%;
-    height: 100vh;
-
-    border-top: 5px solid #078C31;
-    clip-path: polygon(0 0, 100% 0, 100% 97%, 0 100%);/* Inclinação no Header*/
-}
 
 nav {
     width: 95%;
