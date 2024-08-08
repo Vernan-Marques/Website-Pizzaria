@@ -30,7 +30,7 @@ Cinza Claro: #F7F7F7
 
 header {
     position: relative;
-    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0)), url(../_imagens/secao08-background-capa.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0)), url(./_imagens/secao08-background-capa.jpg);
     background-size: cover;
     background-position: center center;
 
